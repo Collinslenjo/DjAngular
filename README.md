@@ -1,16 +1,5 @@
-# django-ng2-starter
-Boilerplate featuring Angular2 and Django.
-
-This repository is based on the following tutorial series.
-
-[Django and Angular2 Tutorial - Getting Staretd](https://4sw.in/blog/2016/django-angular2-tutorial/) 
-
-and
- 
-[Django and Angular2 Tutorial part 2 - Rendering Templates](https://4sw.in/blog/2016/django-angular2-tutorial-part-2/)
-
-
-
+# DjAngular  
+> Django and Angular Application
 
 ## Project Setup
 ```python
